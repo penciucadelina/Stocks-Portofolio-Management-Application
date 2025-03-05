@@ -1,6 +1,14 @@
-
-
 **Stocks Portfolio Management Application**
+
+# Developed a Java application for managing stock portfolios, including the following features:
+
+#User authentication (without credential validation)
+#Viewing available market stocks and their current prices
+#Displaying the user’s portfolio with owned stocks and available balance
+#Buying and selling stocks, restricted by available funds
+
+
+
 
 Note: The project uses Lombok. 
 Please install the Lombok plugin. **In IntelliJ: File->Settings...->Plugins - search 'Lombok'**
