@@ -1,4 +1,4 @@
-# Lab 9
+
 
 **Stocks Portfolio Management Application**
 
@@ -50,22 +50,3 @@ Note 2 - For getting financial market information the application uses htmlunit 
             <artifactId>htmlunit</artifactId>
             <version>2.70.0</version>
         </dependency>
-
-## Exercise 2
-
-Create UML Class diagram and insert it bellow.
-
------ UML CLASS DIAGRAM -------
-
-
-## Exercise 3 (Optional)
-
-Study MVC design pattern and how this can be implemented in Java. Here is a link presenting how MVC pattern can be implemented:
-- https://examples.javacodegeeks.com/core-java/java-swing-mvc-example/ 
-
-## Exercise 4 (Optional)
-
-Add a layer of persistence to your application:
-- Save the accounts in a file on the disk.
-- Save the user's portfolios on the disk. Keep in mind that you can have multiple users.
-- You can use either Java's native serialization support or the JSON format.
