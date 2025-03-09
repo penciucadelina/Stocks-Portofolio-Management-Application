@@ -13,9 +13,7 @@
 Note: The project uses Lombok. 
 Please install the Lombok plugin. **In IntelliJ: File->Settings...->Plugins - search 'Lombok'**
 
-## 1 
-
-Implement a basic stock portfolio tracker application.
+## Implement a basic stock portfolio tracker application.
 
 The aplication should provide following functionalities:
 - Authentication (Login) - finish the login implementation. Currently, the credentials are not verified; anyone can access the application.
